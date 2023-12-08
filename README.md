@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vigneshjayakumar
-- 👀 I’m interested in C++,
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in C++,Angular,JavaScript.
+- 🌱 I’m currently learning NodeJs,React.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me vigneshjayakumar92@gmail.com
 
 <!---
 vigneshjayakumar/vigneshjayakumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
