@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vigneshjayakumar
-- 👀 I’m interested in C++,Angular,JavaScript.
-- 🌱 I’m currently learning NodeJs,React.
+- 👀 I’m interested in C++,Angular,JavaScript, NodeJs.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vigneshjayakumar92@gmail.com
 
